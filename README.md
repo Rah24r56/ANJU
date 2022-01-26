@@ -1,1 +1,3 @@
-# ANJU
+# ANJU. 
+
+cd anju
